@@ -4,7 +4,7 @@ fn main() {
     //     println!("Again!");
     // }
     
-    // number starts at 3, while number doesn't equal 0
+    // number starts at 3, and while number doesn't equal 0 print number and decrease by 1
     let mut number = 3;
     while number != 0 {
         println!("{}!", number);
